@@ -2,7 +2,7 @@
 
 ## Overview
 
-MENA (Multimodal Epistemic Network Analysis) focuses on analyzing caregiver attitudes in augmented reality environments by utilizing a multimodal approach. The project aims to classify emotional states of caregivers based on their audio, gestures, and verbal communication during interactions captured in video segments.
+MENA (Multimodal Epistemic Network Analysis) uses a multimodal approach to analyze caregiver competencies and emotions in an Augmented Reality setting. This project explores meaningful insights and visual representations from participants' attitudes and emotions by analyzing their audio, gestures, and verbal communications captured in video segments during their interaction with a virtual geriatric patient.
 
 <div align="center">
   <img src="model.jpg" alt="Flowchart of Data Processing" width="80%">
